@@ -1,9 +1,6 @@
 <!-- ===== Header Logo / Banner ===== -->
-<p align="center">
-  <img src="https://your-logo-link.png" alt="MmmdreZadev Logo" width="200"/>
-</p>
 
-<h1 align="center">MmmdreZadev</h1>
+<h1 align="center">Mohammadreza</h1>
 <p align="center">Aspiring Full-Stack Developer 🚀 | Building awesome projects & learning new tech</p>
 
 ---
@@ -46,8 +43,3 @@
   <a href="https://t.me/mmdrezawkh"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
