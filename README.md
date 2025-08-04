@@ -1,7 +1,9 @@
 <!-- ===== Header Logo / Banner ===== -->
 
 <h1 align="center">Mohammadreza</h1>
-<p align="center">Aspiring Full-Stack Developer 🚀 | Building awesome projects & learning new tech</p>
+<p align="center">Focused on mastering web development | From HTML & CSS to full-stack projects
+
+</p>
 
 ---
 
